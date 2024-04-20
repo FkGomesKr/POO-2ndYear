@@ -1,0 +1,55 @@
+ID,Muscle,Name,Material,Description
+1,Chest,Bench Press,Bar & Bench,Lie on the bench -> Grip the bar slightly wider than shoulder-width apart -> Lower the bar with control until it touches your chest -> Reverse
+2,Chest,Cable Chest Press,Handles & Cable Machine,Grip the handles  -> Step forward -> Push the handles forward until they meet in front of your body -> Reverse the motion
+3,Chest,Dumbbell Chest Fly,Bench & Dumbbells,Lie on bench -> Lift a pair of dumbbells  -> Lower the dumbbells out to your sides -> Reverse
+4,Chest,Incline Dumbbell,Bench & Dumbbells,Put bench to 15-30 degrees → Lift a pair of dumbbells -> Press the dumbbells up -> Reverse
+5,Chest,Pec Dec,Machine,Sit -> Elbows agains the pads -> Push the pads forward
+6,Chest,Bar Dip,Dip Station,Grip → Jump → Lower yourself with control → Reverse the motion
+7,Chest,Dumbbell Pullover,Dumbbell & Bench,Lie Down → Lower the dumbbell down behind your head → Reverse the motion
+8,Chest,Decline Bench Press,Bar & Bench,Set a bench so that it is in decline -> Lie down → Grip the bar slightly wider than shoulder-width apart -> Lower the bar with control until it touches your chest -> Reverse
+9,Chest,Push Up,None,Assume the starting position -> Go down with control -> Reverse
+10,Shoulder,Barbell Front Raise,Bar ,Hold a barbell in straight arms ->  lift the barbell -> Reverse the movement
+11,Shoulder,Cable Lateral Raise,Cable Machine & Handles,Grip a handle connected to the lower position on a cable pulley ->  Stand close to the pulley with the arm holding the handle facing away from the machine -> With control lift the handle outwards -> Reverse
+12,Shoulder,Face Pull,Cable Machine & Rope Handle,Fasten a rope handle in a high position on a cable pulley → With elbows held high pull the rope towards you -> Reverse
+13,Shoulder,Machine Shoulder Press,Shoulder Press Machine,Sit down and grip the handles -> Press the handles upward -> Reverse with control
+14,Shoulder,Dumbbell Lateral Raise,Dumbbells,Hold a pair of dumbbells -> With control lift the dumbbells out to your sides -> Reverse
+15,Bicep,Cable Curl With Bar,Bar Handle & Cable Machine,Fasten a bar in the lower position of a cable cross -> Lift the bar with control -> Reverse
+16,Bicep,Dumbbell Curl,Dumbbells,Hold a pair of dumbbells -> With control lift the dumbbells -> Reverse
+17,Bicep,Hammer Curl,Dumbbells,Hold a pair of dumbbells in a neutral grip -> With control lift the dumbbells -> Reverse
+18,Bicep,Spider Curl,Dumbbells & Bench,Lie down on your chest on a 45-degree bench → With your upper arms vertical lift the dumbbells → Reverse the movement
+19,Bicep,Barbell Preacher Curl,Preacher Curl Bench & Barbell,Sit down resting your arms against the pad → Lower the bar with control → Reverse the motion 
+20,Tricep,Bench Dip,Bench ,Turn your back towards a bench → Put your hands on the pad → Lower yourself > Reverse the motion
+21,Tricep,Barbell Lying Triceps Extension,Bench & Barbell,Lie down → Put your head close to the edge → Hold a barbell  → Lower the barbell behind your head → Reverse the motion
+22,Tricep,Overhead Cable Triceps Extension,Cable Machine & Rope Handle,Fasten a rope in the lower position → Stand with your back against the pulley → Hold the rope behind your head → Extend your arms → Reverse
+23,Tricep,Tricep Pushdown,Cable Machine & Rope Handle,Fasten a rope handle in the upper position → Grip the rope with an overhand grip → Take a step back → Pull the rope down 
+24,Leg,Bulgarian Split Squat,Bench & Bar ,Stand with your back turned against the bench → Stand one step in front of the bench → Place one foot on the bench → Squat down → Reverse 
+25,Leg,Dumbbell Lunge ,Dumbbells,Hold a dumbbell in each hand →Take a big step forward → Sink as deep as possible without touching the floor → Reverse
+26,Leg,Hack Squats,Hack Squat Machine,Place your shoulders against the pads → Put your feet in place → Squat → Reverse
+27,Leg,Leg Extension,Leg Extension Machine,Sit → Put your legs in place → Extend your knees with control -> Reverse 
+28,Leg,Leg Press,Leg Press Machine,Sit → Put your feet in place → Extend your legs → Lower the weight by bending your legs → Reverse
+29,Leg,Lying Leg Curl,Lying Leg Curl Machine,Lay down with your stomach facing the machine → Bend your knees as far as possible → Reverse
+30,Leg,Romanian Deadlift,Bar ,Get into start position → Deadlift the bar → Lean forward by hinging  in your hips → Lean Forward → Reverse
+31,Leg,Squat,Bar ,Place the bar on your upper back → Squat as deep as possible → With control stop and reverse
+32,Back,T-Bar Row,T-Bar,Stand on the plate → Lean forward → Grab the bar → Pull the bar towards you → Reverse
+33,Back,Pull Ups,None,Grip a bar with palms facing away from you → Pull yourself up → Reverse
+34,Back,Straight Arm Lat Pulldown,Cable Machine & Bar Handle,Grip the bar → With straight arms push the bar down in front of you → Reverse
+35,Back,Cable Seated Row,Row Machine,Attach a narrow handle to the cable row → Mantain an upright posture → Pull the handle towars your lower abdomen → Reverse
+36,Back,Dumbbell Row,Dumbbells & Bench,Place a dumbbell on the floor → Place one of your hánds and the knee of the same side on top of the bench → Pull the dumbbell → Reverse
+37,Back,Dumbbell Shrugs,Dumbbells,Hold a pair of dumbbells at your sides → Lift your shoulders straight up → Reverse
+38,Back,Barbell Rows,Barbell,Grip the bar with an overhand grip → Lean forward with the bar hanging → Pull the bar towards you → Reverse
+39,Abs,Side Plank,None,Stand on your side leaning against one elbow → Brace your core and hold
+40,Abs,Crunches,None,Lie on your back → Hands in front of your chest and knees bent → Lift your upper body by contracting  your abs and bending forward → Reverse
+41,Abs,Lying Leg Raise,None,Lie down → Arms at your side → With straight legs lift your legs until the are pointing straight up→ 
+42,Abs,Plank,None,Stand on your elbows and feet → Brace your abs and hold a straight line
+43,Abs,Sit-Ups,None,Lie on your back → Lift your upper body by contracting your abs and bending forward -> Reverse
+44,Cardio,Running on the road,,
+45,Cardio,Trail on the mountain,,
+46,Cardio,Bicycle on the road,,
+47,Cardio,Bicycle on the mountain,,
+48,Cardio,Rowing,,
+49,Cardio,Running on the athletics track,,
+50,Cardio,Roller Skating,,
+51,Cardio,Running on the Treadmill,,
+52,Cardio,Zumba Class,,
+53,Cardio,Jump rope,,
+54,Cardio,Swimming,,
