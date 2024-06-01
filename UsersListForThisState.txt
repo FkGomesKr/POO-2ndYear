@@ -1,0 +1,8 @@
+GomesAdmin      FkGomesKr
+PedroAdmin      pedrin
+JoãoNunoAdmin   123
+JoanaMK2        jmk
+MaryMad20       mary
+RobertoKing     rking
+Fernando        riofe
+defesa 		defesa
